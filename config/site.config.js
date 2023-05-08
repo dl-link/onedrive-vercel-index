@@ -39,8 +39,8 @@ module.exports = {
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   
   
-  footer:
-  'Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
+  footer:""
+  //'Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
   
   
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
@@ -54,13 +54,15 @@ module.exports = {
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   
-  links: [
+  links: ""
+  /*
+  [
     {
       name: 'GitHub',
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
   ],
-  
+  */
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
